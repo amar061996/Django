@@ -1,0 +1,29 @@
+body {
+  min-height: 1000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+  background-color:#39036B;
+   border-color:#68149C;
+  color:white;
+}
+
+.navbar-default .navbar-brand{
+
+color:white;
+}
+
+.navbar-default .navbar-brand:hover{
+
+color:white;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+color:white;
+}
+
+.navbar-default .navbar-toggle{
+border-color:transparent;
+
+}
